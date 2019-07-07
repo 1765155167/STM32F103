@@ -1,0 +1,17 @@
+定时器
+TIM1   0.5S触发一次 翻转LED
+TIM2   进行超声波测距
+TIM3   舵机PWM输出50HZ
+TIM4   L298NPWM调速
+TIM5   HAl库时钟源
+
+DHT11 PD4
+SR501 PD3
+MQ-2 PA0
+火焰 PA1
+超声波 TRIG（PC8）、ECHO（PC7）
+
+舵机
+红 VCC
+棕 GND
+橙 PWM
