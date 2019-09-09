@@ -1,0 +1,6 @@
+点亮电平:0
+LED[1-4] PB5 PE5 PA5 PA6
+
+\:下降沿
+/:上升沿
+KEY S[2-5] PA0\UP PE4\RIGHT PE3\DOWN PE2/LEFT
